@@ -88,4 +88,6 @@ Having full control over your prompts gives you the flexibility and prompt contr
 
 I don't know what's the best prompt, but I know you want the flexibility to be able to try EVERYTHING.
 
+(see [God Tier Prompts](https://www.godtierprompts.com) for prompts. It's a prompt leaderboard, where everyone shares their prompts and the best rise to the top.)
+
 [← Natural Language To Tool Calls](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-01-natural-language-to-tool-calls.md) | [Own Your Context Window →](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-03-own-your-context-window.md)
